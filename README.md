@@ -10,7 +10,7 @@ Currently working on building robust MERN & Next.js applications with headless C
 
 ## 🧠 About Me
 
-- 💻 2+ years of hands-on experience in full-stack development  
+- 💻 Years of hands-on experience in full-stack development  
 - ⚡ Strong focus on scalable backend architecture & clean API design  
 - 🎯 Experienced in real-time systems using WebSockets & event-driven architecture  
 - 🎨 Built advanced 3D interactive platforms using Three.js & React Three Fiber  
