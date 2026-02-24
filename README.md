@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Talha Hashmi
 
 🚀 Full Stack Engineer | MERN Stack Specialist | Scalable System Design  
-📍 Lahore, Pakistan  
 
 I’m a Software Engineer with strong experience in building scalable, high-performance web applications using modern JavaScript ecosystems. I specialize in architecting full-stack systems with clean APIs, optimized databases, and production-ready deployments.
 
